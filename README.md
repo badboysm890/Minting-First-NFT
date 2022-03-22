@@ -1,4 +1,4 @@
-# **Minting Your First NFT**
+# **Minting Your First NFT. 🤪 **
 
 Hi this is my first course (DRAFT) in which we will be meeting the first NFT of your life. Course you will learn how to use solidity & JavaScript to mint an NFT. All the things required and environment set up will be followed in the same course so that at the end of this course you will be learning how to maintain an NFT and also create and smart contract with using solidity.
 
@@ -10,7 +10,7 @@ Clone the given repository which will kickstart the project initially.
     npm install
 
 
-# Config
+# Config ⚠️
 
 Create a file named **hardhat.config.js**
 
@@ -28,7 +28,7 @@ Add the following snippet with the nessasary code.
     solidity:  '0.8.4'
     }
 
-# Course Plan
+# Course Plan 
 
 **Minting Your First NFT - Draft 1**
 
