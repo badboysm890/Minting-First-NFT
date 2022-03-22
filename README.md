@@ -34,20 +34,21 @@ Add the following snippet with the nessasary code.
 
 1. Intro to **Cryptocurrency**, **Tokens**, **NFT** and **DAO**
 2. What is a **blockchain** ?
-3. Dipping Toes deeper into Blockchain
-4. WTF is a **NFT** ?
-5. Basic intro to **SOLIDITY** and **JAVASCRIPT**
+3. Dipping Toes deeper into Blockchain ⛓
+4. Setting up the wallet (Meta Mask). 👍🏻
+5. WTF 🧐 is a **NFT** ? 
+6. Basic intro to **SOLIDITY** and **JAVASCRIPT** 🧑🏻‍💻
 
-6. Lets mint our own NFT - 1
+6. Lets mint our own NFT - 1 🪛
 -  Tech Stack
 -  Installation and Env Setup
 -  Testing
 
-7. Lets Mint out own NFT - 2
+7. Lets Mint out own NFT - 2 🛠
 - Creating a Smart contracts to mint an NFT
 - Mint an NFT
 
-8. **On-Chain** NFT
+8. **On-Chain** NFT 🛖
 - What is DATA URI
 - Mint NFT on-chain using the same Contract
 - End of Part one (Keystone Project)
